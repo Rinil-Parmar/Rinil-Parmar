@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinil-parmar&label=Profile%20views&color=0e75b6&style=flat" alt="rinil-parmar" /> </p>
 <h1>About ME 💬 :</h1>
   
- <p>-💻 I’m a 3rd year computer science student.<p>
+ <p>-💻 I’m a Final year computer science student.<p>
   <p> -I’m currently learning Data Structures and Algorithms and Web Development.<p>
    <p>-I like to read books.<p>
    
