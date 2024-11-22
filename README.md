@@ -17,14 +17,16 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> Rinil here👋.</h1>
-<h3 align="center">Passionate About Learning Various Technology.</h3>
+<h3 align="center">Passionate About Learning Various Technology. <br>
+Crafting tomorrow's technology, today.</h3>
+<h3 align="center"></h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinil-parmar&label=Profile%20views&color=0e75b6&style=flat" alt="rinil-parmar" /> </p>
 <h1>About ME 💬 :</h1>
   
- <p>-💻 I’m a Final year computer science student.<p>
+ <p>-💻Software Engineer at TCS.<p>
   <p> -I’m currently learning Data Structures and Algorithms and Web Development.<p>
    <p>-I like to read books.<p>
    
