@@ -26,15 +26,15 @@ Crafting tomorrow's technology, today.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinil-parmar&label=Profile%20views&color=0e75b6&style=flat" alt="rinil-parmar" /> </p>
 <h1>About ME 💬 :</h1>
   
- <p>-💻Software Engineer at TCS.<p>
-  <p> -I’m currently learning Data Structures and Algorithms and Web Development.<p>
+ <p>-💻Doing Master's of Applied Computing at the University of Windsor, Canada.<p>
+  <p> -I’m currently learning System Design<p>
    <p>-I like to read books.<p>
    
   <h3>●Hobbies</h3>
   <p>-Playing games.<p>
   <p>-Watching Series.<p>
-  <p>-Love to play volleyball.<p>
-  <p>-And Sometimes do nothing.😁<p>
+  <p>-Love to play Table tennis<p>
+  <p>-And sometimes do nothing.😁<p>
  
 
 
